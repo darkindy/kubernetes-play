@@ -1,3 +1,9 @@
+# Specific
+azure/id_rsa
+
+# IDE
+.idea/
+
 # Compiled class file
 *.class
 
