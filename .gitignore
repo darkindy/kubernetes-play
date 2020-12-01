@@ -3,6 +3,8 @@ azure/id_rsa
 
 # IDE
 .idea/
+*.iml
+*.log.*
 
 # Compiled class file
 *.class

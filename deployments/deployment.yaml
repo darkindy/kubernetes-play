@@ -13,7 +13,7 @@ spec:
   selector:
     matchLabels:
       app: indykube-app
-  replicas: 2
+  replicas: 3
   strategy:
     type: RollingUpdate
     rollingUpdate:
