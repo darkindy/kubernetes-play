@@ -10,7 +10,7 @@
     <artifactId>indykube-app-web</artifactId>
 
     <build>
-        <finalName>spring-boot-archetype</finalName>
+        <finalName>indykube-app</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

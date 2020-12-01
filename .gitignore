@@ -2,6 +2,7 @@
 azure/id_rsa
 
 # IDE
+target/
 .idea/
 *.iml
 *.log.*
